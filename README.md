@@ -2,15 +2,25 @@
 Grupo 6
 
 Tema: Explorando os Fundamentos dos Sistemas Numéricos: Hexadecimal
+
 Integrantes:
+
  Cauê Prado Baía
+
  Joao Paulo Silveira De Melo
+
  Júlio César Aragão Vilas Bôas
+
  Kerry Muniz Santos
+
  Maria Julia De Paula Martins Germano
+
  Pedro Henrique Dornellas Camara Oliveira
+
  Rafael Varela Joachim Queimado
+
  Ricardo Block Veras Franco Neves
+
  Terry Damasio Santos
 
 Descrição Geral:
