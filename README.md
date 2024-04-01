@@ -8,8 +8,8 @@
   <br>
    <a>
        <picture>
-           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
-           <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
+           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_31.png" />
+           <img height="48px" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_31.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
@@ -20,8 +20,8 @@
    </a>&nbsp;&nbsp;&nbsp;
    <a>
        <picture>
-           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
-           <img height="48px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/c6978470-b16a-43ca-91ba-787f519ae800/preview" />
+           <img height="48px" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/c6978470-b16a-43ca-91ba-787f519ae800/preview" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
 </p>
