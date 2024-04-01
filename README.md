@@ -1,27 +1,35 @@
-# Site-grupo-6-Hexadecimal
+<p align="center">
+  <picture>
+    <img 
+      width="256px"
+      src="src/img/goblin.png"
+    >
+  </picture>
+  <br>
+   <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
+       <picture>
+           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
+           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+       </picture>
+   </a>&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+# 1️⃣6️⃣✖️ Site-grupo-6-Hexadecimal
+![Apache2.0 License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg)
+
+Site Educacional criado por uma equipe de alunos de primeiro periodo na Cesar School.
+Site foi criado usando Html e Css, para a aula de Introdução a computação,
+sob supervisão da professora Rafaella Matos.
+
+Veja a preview do site usando Github pages em: **https://rvjq.github.io/Site-grupo-6-Hexadecimal/**
+
+## ❓ Mais Sobre
+
 Grupo 6
 
 Tema: Explorando os Fundamentos dos Sistemas Numéricos: Hexadecimal
-
-Integrantes:
-
- Cauê Prado Baía
-
- Joao Paulo Silveira De Melo
-
- Júlio César Aragão Vilas Bôas
-
- Kerry Muniz Santos
-
- Maria Julia De Paula Martins Germano
-
- Pedro Henrique Dornellas Camara Oliveira
-
- Rafael Varela Joachim Queimado
-
- Ricardo Block Veras Franco Neves
-
- Terry Damasio Santos
 
 Descrição Geral:
 Neste projeto, o grupo criará uma ferramenta educacional interativa que explora os fundamentos do
@@ -45,3 +53,23 @@ relevantes.
 informações relevantes sobre o projeto ou equipe.
 
 Entrega: Uma pessoa por grupo irá postar o link da página do Github com o site publicado.
+
+## 🤝 Equipe
+
+- 🙋‍♂️ **Cauê Prado Baía**
+
+- 🙋‍♂️ **Joao Paulo Silveira De Melo**
+
+- 🙋‍♂️ **Júlio César Aragão Vilas Bôas**
+
+- 🙋‍♂️ **Kerry Muniz Santos**
+
+- 🙋 **Maria Julia De Paula Martins Germano**
+
+- 🙋‍♂️ **Pedro Henrique Dornellas Camara Oliveira**
+
+- 🙋‍♂️ **Rafael Varela Joachim Queimado**
+
+- 🙋‍♂️ **Ricardo Block Veras Franco Neves**
+
+- 🙋‍♂️ **Terry Damasio Santos**
