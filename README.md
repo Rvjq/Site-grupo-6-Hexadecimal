@@ -6,6 +6,8 @@
     >
   </picture>
   <br>
+  Projeto site educacional
+  <br>
    <a>
        <picture>
            <img height="48px" src="src/img/icons/html-icon.png" />
