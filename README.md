@@ -8,20 +8,17 @@
   <br>
    <a>
        <picture>
-           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_31.png" />
-           <img height="48px" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_html5_html_31.png" />
+           <img height="48px" src="src/img/icons/html-icon.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
        <picture>
-           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="48px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+           <img height="48px" src="src/img/icons/github-icon.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a>
        <picture>
-           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/c6978470-b16a-43ca-91ba-787f519ae800/preview" />
-           <img height="48px" src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/c6978470-b16a-43ca-91ba-787f519ae800/preview" />
+           <img height="48px" src="src/img/icons/css-icon.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
 </p>
