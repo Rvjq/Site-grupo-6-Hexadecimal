@@ -6,22 +6,22 @@
     >
   </picture>
   <br>
-   <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
+   <a>
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
+           <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/de/HTML5_oval_logo.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
    <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
+           <img height="48px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
-   <a href="https://github.com/Rvjq/Site-grupo-6-Hexadecimal">
+   <a>
        <picture>
-           <source height="24px" media="(prefers-color-scheme: dark)" srcset="https://i.ibb.co/dMMmCrW/Git-Hub-Mark.png" />
-           <img height="24px" src="https://i.ibb.co/9wV3HGF/Git-Hub-Mark-Light.png" />
+           <source height="48px" media="(prefers-color-scheme: dark)" srcset="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+           <img height="48px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
        </picture>
    </a>&nbsp;&nbsp;&nbsp;
 </p>
