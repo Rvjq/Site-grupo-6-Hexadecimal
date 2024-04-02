@@ -7,7 +7,7 @@
   </picture>
   <br>
   <picture>
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&pause=1000&color=FFFFFFFFF&center=true&vCenter=true&random=false&width=435&lines=Projeto+Hexadecimmal">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Projeto+Hexadecimal">
   </picture>
   <br>
    <a>
