@@ -6,7 +6,9 @@
     >
   </picture>
   <br>
-  <strong style="font-size:48px"> Projeto Site Educacional </strong>
+  <picture>
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=30&pause=1000&color=FFFFFFFFF&center=true&vCenter=true&random=false&width=435&lines=Projeto+Hexadecimmal">
+  </picture>
   <br>
    <a>
        <picture>
