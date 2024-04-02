@@ -6,7 +6,7 @@
     >
   </picture>
   <br>
-  Projeto site educacional
+  <strong style="font-size:48px"> Projeto Site Educacional </strong>
   <br>
    <a>
        <picture>
