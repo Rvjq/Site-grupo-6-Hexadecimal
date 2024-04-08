@@ -2,7 +2,7 @@
   <picture>
     <img 
       width="256px"
-      src="src/img/android-chrome-512x512.png"
+      src="src/img/favicon/android-chrome-512x512.png"
     >
   </picture>
   <br>
