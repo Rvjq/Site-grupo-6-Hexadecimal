@@ -151,8 +151,11 @@ nav.is-hidden {
 .text.tittle {
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
   font-weight: bold;
   font-size: 50px;
+  border-radius: 15px;
+  border-style: dashed;
   margin-top: 30px;
   margin-bottom: 30px;
   opacity: 100%;
@@ -174,7 +177,7 @@ nav.is-hidden {
   text-decoration: none;
   font-family: monospace;
   font-size: 20px;
-  text-align: center;
+  text-align: justify;
   margin-left: 100px;
   margin-right: 100px;
   opacity: 100%;
