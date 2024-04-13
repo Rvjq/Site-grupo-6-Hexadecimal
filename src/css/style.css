@@ -28,7 +28,7 @@ img {
 
 .content {
   padding: 0px; 
-  background-color:rgba(53, 53, 53, 0.8);
+  background-color:rgba(34, 34, 34, 0.97);
   border-radius:15px;
   margin-top: 400px;
   width: 90%; 
@@ -111,6 +111,15 @@ nav.is-hidden {
   font-size: 30px;
   font-weight: bold;
 }
+.navtext {
+  color: white;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  text-align: center;
+  opacity: 100%;
+  padding: 0;
+}
 .list {
   list-style-type: none;
   margin-left: auto;
@@ -141,8 +150,9 @@ nav.is-hidden {
 
 .text.tittle {
   text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: bold;
-  font-size: 30px;
+  font-size: 50px;
   margin-top: 30px;
   margin-bottom: 30px;
   opacity: 100%;
@@ -151,13 +161,22 @@ nav.is-hidden {
   color: #F76004;
 }
 
+.text.big {
+  font-size: 30px;
+}
+
+.text.small {
+  font-size: 15px;
+}
+
 .text {
   color: white;
   text-decoration: none;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: monospace;
   font-size: 20px;
   text-align: center;
-  margin: 0;
+  margin-left: 100px;
+  margin-right: 100px;
   opacity: 100%;
   padding: 0;
 }
