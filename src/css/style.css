@@ -4,6 +4,8 @@
 /*   Frame   */
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 html {
@@ -26,7 +28,12 @@ img {
   object-fit: cover;
 }
 
+li {
+  padding-bottom: 8px;
+}
+
 .content {
+  position: absolute;
   padding: 0px; 
   background-color:rgba(34, 34, 34, 0.97);
   border-radius:15px;
@@ -41,7 +48,6 @@ img {
   width: 100%;
   max-height: 100%;
   position: relative;
-  text-align: center;
 }
 
 h1,
@@ -51,6 +57,7 @@ h4,
 h5,
 h6 {
   color: white;
+  margin: 10px;
   text-decoration: none;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: x-large;
@@ -232,7 +239,7 @@ nav.is-hidden {
 
 .link {
   position: relative;
-  text-decoration: none;
+  text-decoration: underline;
   display: inline-block;
   color: inherit;
   padding: 0 1px;
