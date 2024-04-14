@@ -37,17 +37,19 @@ li {
   padding: 0px; 
   background-color:rgba(34, 34, 34, 0.97);
   border-radius:15px;
-  margin-top: 400px;
   width: 90%; 
-  height: 90%;
+  height: auto;
+  top: 100px;
+  right: 5%;
 }
 
 .container {
+  position: relative;
+  text-align: center;
   padding: 0px;
   margin: 0 auto;
   width: 100%;
   max-height: 100%;
-  position: relative;
 }
 
 h1,
@@ -139,20 +141,6 @@ nav.is-hidden {
   }
 }
 
-/* Posições */
-.top-centered {
-  position: absolute;
-  top: 30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-.centered-absolute {
-  position: absolute;
-  top: 15%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
 /* Textos Coloridos */
 
 .text.tittle {
@@ -190,11 +178,11 @@ nav.is-hidden {
   text-align: justify;
   margin-left: 100px;
   margin-right: 100px;
-  opacity: 100%;
   padding: 0;
 }
 .text.orange {
   color: #F76004;
+  margin: 0;
 }
 
 
