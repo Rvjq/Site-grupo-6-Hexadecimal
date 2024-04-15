@@ -86,6 +86,7 @@ h6 {
 }
 
 .profile-text {
+  display:inline-block;
   margin: 10px;
   width: 310px;
   text-align: center;
