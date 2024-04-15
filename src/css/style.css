@@ -72,6 +72,25 @@ h6 {
   background-color: #fff;
 }
 
+.profile-pic {
+  object-fit: none;
+  margin: 10px;
+  min-height: 0px;
+  min-width: 0px;
+  width: 310px;
+  border-color: #fff;
+  border-style: dashed;
+  border-width: 5px;
+  height: 310px;
+  border-radius: 50%;
+}
+
+.profile-text {
+  margin: 10px;
+  width: 310px;
+  text-align: center;
+}
+
 /*   Nav Bar   */
 nav {
   position: fixed;
