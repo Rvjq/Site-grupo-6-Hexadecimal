@@ -69,6 +69,10 @@ Entrega: Uma pessoa por grupo irá postar o link da página do Github com o site
 
 ## 🤝 Nossa equipe
 
+- 🙋‍♂️ **Rafael Varela Joachim Queimado**
+
+- 🙋‍♂️ **Arthur Lúcio de Almeida Martins Silva**
+
 - 🙋‍♂️ **Cauê Prado Baía**
 
 - 🙋‍♂️ **Joao Paulo Silveira De Melo**
@@ -80,8 +84,6 @@ Entrega: Uma pessoa por grupo irá postar o link da página do Github com o site
 - 🙋 **Maria Julia De Paula Martins Germano**
 
 - 🙋‍♂️ **Pedro Henrique Dornellas Camara Oliveira**
-
-- 🙋‍♂️ **Rafael Varela Joachim Queimado**
 
 - 🙋‍♂️ **Ricardo Block Veras Franco Neves**
 
