@@ -34,10 +34,10 @@ li {
 
 .content {
   position: absolute;
-  padding: 0px; 
-  background-color:rgba(34, 34, 34, 0.97);
-  border-radius:15px;
-  width: 90%; 
+  padding: 0px;
+  background-color: rgba(34, 34, 34, 0.97);
+  border-radius: 15px;
+  width: 90%;
   height: auto;
   top: 100px;
   left: 50%;
@@ -86,7 +86,7 @@ h6 {
 }
 
 .profile-text {
-  display:inline-block;
+  display: inline-block;
   margin: 10px;
   width: 310px;
   text-align: center;
@@ -104,7 +104,7 @@ nav {
   transition: 0.3s ease-out;
   backdrop-filter: blur(8px) brightness(1.2);
   -webkit-backdrop-filter: blur(8px) brightness(1.2);
-  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
   color: white;
   font-size: 16px;
   z-index: 2;
@@ -115,12 +115,14 @@ nav {
   }
   &.mask-pattern {
     top: 300px;
-    mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"), linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
+    mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"),
+      linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
     mask-size: auto 30px, 100% 100%;
     mask-repeat: repeat-x, no-repeat;
     mask-position: left bottom, top left;
-    
-    -webkit-mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"), linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
+
+    -webkit-mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"),
+      linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
     -webkit-mask-size: auto 30px, 100% 100%;
     -webkit-mask-repeat: repeat-x, no-repeat;
     -webkit-mask-position: left bottom, top left;
@@ -177,7 +179,7 @@ nav.is-hidden {
   opacity: 100%;
 }
 .text.tittle.orange {
-  color: #F76004;
+  color: #f76004;
 }
 
 .text.big {
@@ -201,10 +203,9 @@ nav.is-hidden {
   padding: 0;
 }
 .text.orange {
-  color: #F76004;
+  color: #f76004;
   margin: 0;
 }
-
 
 /* Textos Destacados */
 .highlight {
@@ -214,13 +215,13 @@ nav.is-hidden {
   background: #111;
 }
 .highlight.orange {
-  background: #F76004;
+  background: #f76004;
 }
 
 /* Links */
 
 .link2 {
-	color: #fff;
+  color: #fff;
   position: relative;
   text-decoration: none;
 }
@@ -236,7 +237,7 @@ nav.is-hidden {
   left: 0;
   transform-origin: right;
   transform: scaleX(0);
-  transition: transform .3s ease-in-out;
+  transition: transform 0.3s ease-in-out;
 }
 
 .link2:hover::before {
@@ -284,7 +285,7 @@ nav.is-hidden {
   background: #111;
 }
 
-footer{
+footer {
   position: fixed;
   bottom: 0;
   left: 0;
@@ -295,7 +296,7 @@ footer{
   transition: 0.3s ease-out;
   backdrop-filter: blur(8px) brightness(1.2);
   -webkit-backdrop-filter: blur(8px) brightness(1.2);
-  text-shadow: 0 0 5px rgba(0,0,0,0.5);
+  text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
   color: white;
   font-size: 16px;
   z-index: 2;
@@ -306,15 +307,16 @@ footer{
   }
   &.mask-pattern {
     top: 300px;
-    mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"), linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
+    mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"),
+      linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
     mask-size: auto 30px, 100% 100%;
     mask-repeat: repeat-x, no-repeat;
     mask-position: left bottom, top left;
-    
-    -webkit-mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"), linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
+
+    -webkit-mask-image: url("data:image/svg+xml, %3Csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 12.21 10.57%27%3E%3Cpath fill=%27%23ffffff%27 d=%27M6.1 0h6.11L9.16 5.29 6.1 10.57 3.05 5.29 0 0h6.1z%27/%3E%3C/svg%3E"),
+      linear-gradient(black calc(100% - 30px), transparent calc(100% - 30px));
   }
 }
-
 
 ul {
   list-style-type: none;
@@ -405,9 +407,9 @@ ul li {
   --input-hovered-color: #4985e01f;
   position: relative;
   width: var(--width-of-input);
- }
- /* styling of Input */
- .input {
+}
+/* styling of Input */
+.input {
   color: #fff;
   font-size: 0.9rem;
   background-color: transparent;
@@ -417,9 +419,9 @@ ul li {
   padding-block: 0.7em;
   border: none;
   border-bottom: var(--border-height) solid var(--border-before-color);
- }
- /* styling of animated border */
- .input-border {
+}
+/* styling of animated border */
+.input-border {
   position: absolute;
   background: var(--border-after-color);
   width: 0%;
@@ -427,21 +429,77 @@ ul li {
   bottom: 0;
   left: 0;
   transition: 0.3s;
- }
- /* Hover on Input */
- input:hover {
+}
+/* Hover on Input */
+input:hover {
   background: var(--input-hovered-color);
- }
- 
- input:focus {
+}
+
+input:focus {
   outline: none;
- }
- /* here is code of animated border */
- input:focus ~ .input-border {
+}
+/* here is code of animated border */
+input:focus ~ .input-border {
   width: 100%;
- }
- /* === if you want to do animated border on typing === */
- /* remove input:focus code and uncomment below code */
- /* input:valid ~ .input-border{
+}
+/* === if you want to do animated border on typing === */
+/* remove input:focus code and uncomment below code */
+/* input:valid ~ .input-border{
    width: 100%;
  } */
+
+.flexbox {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin: 10px;
+}
+
+.select-dropdown,
+.select-dropdown * {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  box-sizing: border-box;
+}
+.select-dropdown {
+  position: relative;
+  background-color: #E6E6E6;
+  border-radius: 4px;
+}
+.select-dropdown select {
+  font-size: 1rem;
+  font-weight: normal;
+  max-width: 100%;
+  padding: 8px 24px 8px 10px;
+  border: none;
+  background-color: transparent;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+  appearance: none;
+}
+.select-dropdown select:active, .select-dropdown select:focus {
+  outline: none;
+  box-shadow: none;
+}
+.select-dropdown:after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  right: 8px;
+  width: 0;
+  height: 0;
+  margin-top: -2px;
+  border-top: 5px solid #aaa;
+  border-right: 5px solid transparent;
+  border-left: 5px solid transparent;
+}
+
+.calculadora {
+  display: relative;
+  border-radius: 15px;
+  background-color: rgba(59, 58, 58, 0.39);;
+  width: 50%;
+  height: auto;
+  padding: 10px;
+}
